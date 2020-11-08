@@ -7,3 +7,6 @@
 [submodule "plugins/python"]
 	path = plugins/python
 	url = git@github.com:danhper/asdf-python.git
+[submodule "plugins/java"]
+	path = plugins/java
+	url = git@github.com:halcyon/asdf-java.git
