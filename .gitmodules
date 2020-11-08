@@ -1,3 +1,6 @@
 [submodule "plugins/nodejs"]
 	path = plugins/nodejs
 	url = git@github.com:asdf-vm/asdf-nodejs.git
+[submodule "plugins/ruby"]
+	path = plugins/ruby
+	url = git@github.com:asdf-vm/asdf-ruby.git
