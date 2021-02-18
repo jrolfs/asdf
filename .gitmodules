@@ -10,3 +10,6 @@
 [submodule "plugins/java"]
 	path = plugins/java
 	url = git@github.com:halcyon/asdf-java.git
+[submodule "plugins/rust"]
+	path = plugins/rust
+	url = git@github.com:code-lever/asdf-rust.git
